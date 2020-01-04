@@ -1,0 +1,7 @@
+    {
+        "name": "Canada",
+        "dataColors": ["#5A8CC5","#A5A5A5", "#BE6CA3", "#E9C05E", "#2FA1C3", "#2A9979", "#C75355", "#3678B9", "#8091A2", "#DA934E"],
+        "background":"#FFFFFF",
+        "foreground": "#3A6108",
+        "tableAccent": "#568410"
+    }
